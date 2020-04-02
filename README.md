@@ -92,5 +92,20 @@ This repository provides link to useful dataset and usable library for NLP in Ba
 8) https://github.com/riochr17/Analisis-Sentimen-ID
 9) https://github.com/yusufsyaifudin/indonesia-ner
 
+## Topic Analysis
+1) (Introduction to LSA & LDA). https://monkeylearn.com/blog/introduction-to-topic-modeling/
+2) (Introduction to LDA w/ Code & Tips). https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
+3) (Topic Modeling Methods Comparison Paper). https://thesai.org/Downloads/Volume6No1/Paper_21-A_Survey_of_Topic_Modeling_in_Text_Mining.pdf
+4) (Original LDA Paper). http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+5) (LDA Python Library). https://pypi.org/project/lda/; https://radimrehurek.com/gensim/models/ldamodel.html; https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
+6) (Original CTM Paper). http://people.ee.duke.edu/~lcarin/Blei2005CTM.pdf
+7) (CTM Python Library). https://pypi.org/project/tomotopy/; https://github.com/kzhai/PyCTM
+8) (Gaussian LDA Paper). https://www.aclweb.org/anthology/P15-1077.pdf
+9) (Gaussian LDA Library). https://github.com/rajarshd/Gaussian_LDA
+10) (Temporal Topic Modeling Comparison Paper). https://thesai.org/Downloads/Volume6No1/Paper_21-A_Survey_of_Topic_Modeling_in_Text_Mining.pdf
+11) (TOT: A Non-Markov Continuous-Time Model of Topical Trends Paper). https://people.cs.umass.edu/~mccallum/papers/tot-kdd06s.pdf
+12) (TOT Library). https://github.com/ahmaurya/topics_over_time  
+13) (Example of LDA in Bahasa Project Code). https://github.com/kirralabs/text-clustering
+
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
