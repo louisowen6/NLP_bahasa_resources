@@ -80,6 +80,7 @@ This repository provides link to useful dataset and usable library for NLP in Ba
 1) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset
 2) https://github.com/Kyubyong/wordvectors
 3) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
+4) https://github.com/deryrahman/word2vec-bahasa-indonesia
 
 ## Usable Library
 1) Pujangga: Indonesian Natural Language Processing REST API. https://github.com/panggi/pujangga 
