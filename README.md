@@ -121,5 +121,8 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 12) (TOT Library). https://github.com/ahmaurya/topics_over_time  
 13) (Example of LDA in Bahasa Project Code). https://github.com/kirralabs/text-clustering
 
+## Translation
+Sometimes there is an english word within our text and we have to translate it. We can exploit the english word dictionary provided [here](https://github.com/dwyl/english-words) and we can use the [Google Translate API for Python](https://github.com/agusmakmun/Python-Google-Translate)
+
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
