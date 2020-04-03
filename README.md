@@ -77,7 +77,7 @@ This repository provides link to useful dataset and usable library for NLP in Ba
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/morphologicalfeature/number.txt
 
 ## Pre-trained word embedding
-1) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)
+1) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
 2) https://github.com/Kyubyong/wordvectors
 3) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
 4) https://github.com/deryrahman/word2vec-bahasa-indonesia
