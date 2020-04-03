@@ -28,6 +28,8 @@ This repository provides link to useful dataset and another resources for NLP in
 3) https://github.com/sastrawi/sastrawi/blob/master/data/kata-dasar.txt
 4) https://github.com/prasastoadi/serangkai/blob/master/serangkai/kamus/data/kamus-kata-dasar.csv
 
+I have made the [combined root words list](https://github.com/louisowen6/NLP_bahasa_resources/blob/master/combined_root_words.txt) from all of the above repositories.
+ 
 ### Slang Words
 1) https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/kbba.txt
 2) https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/slangword.txt
