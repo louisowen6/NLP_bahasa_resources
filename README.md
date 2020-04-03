@@ -80,9 +80,12 @@ This repository provides link to useful dataset and usable library for NLP in Ba
 1) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset
 2) https://github.com/Kyubyong/wordvectors
 3) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
-4) https://yudiwbs.wordpress.com/2018/03/31/word2vec-wikipedia-bahasa-indonesia-dengan-python-gensim/
-5) https://github.com/deryrahman/word2vec-bahasa-indonesia
-6) https://sites.google.com/site/rmyeid/projects/polyglot
+4) https://github.com/deryrahman/word2vec-bahasa-indonesia
+5) https://sites.google.com/site/rmyeid/projects/polyglot
+
+## Train Word Embedding by Your Self
+1) (FastText). https://structilmy.com/2019/08/membuat-model-word-embedding-fasttext-bahasa-indonesia/
+2) (Word2Vec). https://yudiwbs.wordpress.com/2018/03/31/word2vec-wikipedia-bahasa-indonesia-dengan-python-gensim/
 
 ## Usable Library
 1) Pujangga: Indonesian Natural Language Processing REST API. https://github.com/panggi/pujangga 
