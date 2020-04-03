@@ -35,7 +35,7 @@ This repository provides link to useful dataset and another resources for NLP in
 
 ### Stop Words
 1) https://github.com/yasirutomo/python-sentianalysis-id/blob/master/data/feature_list/stopwordsID.txt
-2) https://github.com/ramaprakoso/analisis-sentimen/tree/master/kamus
+2) https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/stopword.txt
 3) https://github.com/abhimantramb/elang/tree/master/word2vec/utils/stopwords-list
 
 ### Emoticon
