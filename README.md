@@ -50,11 +50,11 @@ This repository provides link to useful dataset and another resources for NLP in
 
 ### Indonesia Region
 1) https://github.com/abhimantramb/elang/blob/master/word2vec/utils/indonesian-region.txt
-2) https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia
+2) https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia/tree/master/csv
 3) https://github.com/pentagonal/Indonesia-Postal-Code/tree/master/Csv
 
 ### Swear Words
-1) https://github.com/abhimantramb/elang/tree/master/word2vec/utils
+1) https://github.com/abhimantramb/elang/blob/master/word2vec/utils/swear-words.txt
 
 ### Composite Words
 1) https://github.com/panggi/pujangga/blob/master/resource/tokenizer/compositewords.txt
