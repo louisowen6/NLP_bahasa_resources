@@ -33,10 +33,14 @@ This repository provides link to useful dataset and another resources for NLP in
 2) https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/slangword.txt
 3) https://github.com/panggi/pujangga/blob/master/resource/formalization/formalizationDict.txt
 
+I have made the [combined slang words dictionary](https://github.com/louisowen6/NLP_bahasa_resources/blob/master/combined_slang_words.txt) from all of the above repositories.
+
 ### Stop Words
 1) https://github.com/yasirutomo/python-sentianalysis-id/blob/master/data/feature_list/stopwordsID.txt
 2) https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/stopword.txt
 3) https://github.com/abhimantramb/elang/tree/master/word2vec/utils/stopwords-list
+
+I have made the [combined stop words list](https://github.com/louisowen6/NLP_bahasa_resources/blob/master/combined_stop_words.txt) from all of the above repositories.
 
 ### Emoticon
 1) https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/emoticon.txt
@@ -93,11 +97,12 @@ This repository provides link to useful dataset and another resources for NLP in
 2) Sastrawi Stemmer Bahasa Indonesia. https://github.com/har07/PySastrawi
 3) MorphInd: Indonesian Morphological Analyzer. http://septinalarasati.com/morphind/
 4) INDRA: Indonesian Resource Grammar. https://github.com/davidmoeljadi/INDRA
-5) https://bagas.me/spacy-bahasa-indonesia.html
-6) https://github.com/yohanesgultom/nlp-experiments
-7) https://github.com/yasirutomo/python-sentianalysis-id
-8) https://github.com/riochr17/Analisis-Sentimen-ID
-9) https://github.com/yusufsyaifudin/indonesia-ner
+5) Typo Checker. https://github.com/mamat-rahmat/checker_id
+6) https://bagas.me/spacy-bahasa-indonesia.html
+7) https://github.com/yohanesgultom/nlp-experiments
+8) https://github.com/yasirutomo/python-sentianalysis-id
+9) https://github.com/riochr17/Analisis-Sentimen-ID
+10) https://github.com/yusufsyaifudin/indonesia-ner
 
 ## Topic Analysis
 1) (Introduction to LSA & LDA). https://monkeylearn.com/blog/introduction-to-topic-modeling/
