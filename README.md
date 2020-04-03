@@ -1,6 +1,6 @@
 # NLP Bahasa Indonesia Resources
 
-This repository provides link to useful dataset and usable library for NLP in Bahasa Indonesia. 
+This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
 ## Dictionary
 
