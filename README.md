@@ -124,5 +124,8 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ## Translation
 Sometimes there is an english word within our text and we have to translate it. We can exploit the english word dictionary provided [here](https://github.com/dwyl/english-words) and we can use the [Google Translate API for Python](https://github.com/agusmakmun/Python-Google-Translate)
 
+## Spelling Correction
+You can adjust [this code](https://norvig.com/spell-correct.html?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity50031) with Bahasa corpus to do the spelling correction
+
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
