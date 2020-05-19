@@ -83,6 +83,9 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Number Words
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/morphologicalfeature/number.txt
 
+## POS-Tagging
+1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
+
 ## Pre-trained word embedding
 1) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
 2) https://github.com/Kyubyong/wordvectors
