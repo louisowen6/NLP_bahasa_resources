@@ -103,11 +103,12 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 3) MorphInd: Indonesian Morphological Analyzer. http://septinalarasati.com/morphind/
 4) INDRA: Indonesian Resource Grammar. https://github.com/davidmoeljadi/INDRA
 5) Typo Checker. https://github.com/mamat-rahmat/checker_id
-6) https://bagas.me/spacy-bahasa-indonesia.html
-7) https://github.com/yohanesgultom/nlp-experiments
-8) https://github.com/yasirutomo/python-sentianalysis-id
-9) https://github.com/riochr17/Analisis-Sentimen-ID
-10) https://github.com/yusufsyaifudin/indonesia-ner
+6) Multilingual NLP Package. https://github.com/flairNLP/flair
+7) https://bagas.me/spacy-bahasa-indonesia.html
+8) https://github.com/yohanesgultom/nlp-experiments
+9) https://github.com/yasirutomo/python-sentianalysis-id
+10) https://github.com/riochr17/Analisis-Sentimen-ID
+11) https://github.com/yusufsyaifudin/indonesia-ner
 
 ## Topic Analysis
 1) (Introduction to LSA & LDA). https://monkeylearn.com/blog/introduction-to-topic-modeling/
