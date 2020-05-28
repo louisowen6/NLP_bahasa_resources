@@ -153,13 +153,13 @@ for tweet in tweets:
 
 2) Tweepy. http://docs.tweepy.org/en/latest/
 
-> Step-by-step how to use Tweepy. https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
+Step-by-step how to use Tweepy. https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
 
-> Sign in to Twitter Developer. https://developer.twitter.com/en
+Sign in to Twitter Developer. https://developer.twitter.com/en
 
-> Full List of Tweets Object. https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object
+Full List of Tweets Object. https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object
 
-> Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/2015/01/how-to-use-twitters-search-rest-api-most-effectively./
+Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/2015/01/how-to-use-twitters-search-rest-api-most-effectively./
 
 
 ## Other Resources:
