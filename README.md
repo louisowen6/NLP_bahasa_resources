@@ -131,5 +131,36 @@ Sometimes there is an english word within our text and we have to translate it. 
 ## Spelling Correction
 You can adjust [this code](https://norvig.com/spell-correct.html?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity50031) with Bahasa corpus to do the spelling correction
 
+## Twitter Scraping:
+1) GetOldTweets3. https://github.com/Mottl/GetOldTweets3
+
+Usage:
+```bash
+import GetOldTweets3 as got
+tweetCriteria=got.manager.TweetCriteria().setQuerySearch('#CoronaVirusIndonesia').setSince("2020-01-01").setUntil("2020-03-05").setNear("Jakarta, Indonesia").setLang("id")
+tweets=got.manager.TweetManager.getTweets(tweetCriteria)
+for tweet in tweets:
+	print(tweet.username)
+	print(tweet.text)
+	print(tweet.date)
+	print("tweet.to")
+	print("tweet.retweets")
+	print("tweet.favorites")
+	print("tweet.mentions")
+	print("tweet.hashtags")
+	print("tweet.geo")
+ ```
+
+2) Tweepy. http://docs.tweepy.org/en/latest/
+
+> Step-by-step how to use Tweepy. https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
+
+> Sign in to Twitter Developer. https://developer.twitter.com/en
+
+> Full List of Tweets Object. https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object
+
+> Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/2015/01/how-to-use-twitters-search-rest-api-most-effectively./
+
+
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
