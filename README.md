@@ -87,11 +87,12 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
 
 ## Pre-trained word embedding
-1) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
-2) https://github.com/Kyubyong/wordvectors
-3) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
-4) https://github.com/deryrahman/word2vec-bahasa-indonesia
-5) https://sites.google.com/site/rmyeid/projects/polyglot
+1) Generate Word-Embedding / Sentence-Embedding using pre-Trained Multilingual Bert model. (https://colab.research.google.com/drive/1yFphU6PW9Uo6lmDly_ud9a6c4RCYlwdX#scrollTo=Zn0n2S-FWZih). P.S: Just change the model using 'bert-base-multilingual-uncased'
+2) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
+3) https://github.com/Kyubyong/wordvectors
+4) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
+5) https://github.com/deryrahman/word2vec-bahasa-indonesia
+6) https://sites.google.com/site/rmyeid/projects/polyglot
 
 ## Train Word Embedding by Your Self
 1) (FastText). https://structilmy.com/2019/08/membuat-model-word-embedding-fasttext-bahasa-indonesia/
