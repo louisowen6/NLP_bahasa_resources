@@ -2,6 +2,8 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
+*Last Update: 16 July 2020*
+
 ## Dictionary
 
 ### Sentiment Words
