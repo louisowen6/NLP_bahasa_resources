@@ -15,6 +15,7 @@ This repository provides link to useful dataset and another resources for NLP in
 8) (Positive) https://github.com/masdevid/ID-OpinionWords/blob/master/positive.txt
 9) (Score) https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/sentimentword.txt
 10) (InSet Lexicon) https://github.com/fajri91/InSet [[Paper](https://www.researchgate.net/publication/321757985_InSet_Lexicon_Evaluation_of_a_Word_List_for_Indonesian_Sentiment_Analysis_in_Microblogs)]
+11) (Twitter Labelled Sentiment) https://www.researchgate.net/publication/338409000_Dataset_Indonesia_untuk_Analisis_Sentimen
 
 ### Position / Degree Words
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/contextualfeature/psuf.txt
