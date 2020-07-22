@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 16 July 2020*
+*Last Update: 22 July 2020*
 
 ## Dictionary
 
@@ -105,15 +105,16 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ## Usable Library
 1) Pujangga: Indonesian Natural Language Processing REST API. https://github.com/panggi/pujangga 
 2) Sastrawi Stemmer Bahasa Indonesia. https://github.com/sastrawi/sastrawi
-3) MorphInd: Indonesian Morphological Analyzer. http://septinalarasati.com/morphind/
-4) INDRA: Indonesian Resource Grammar. https://github.com/davidmoeljadi/INDRA
-5) Typo Checker. https://github.com/mamat-rahmat/checker_id
-6) Multilingual NLP Package. https://github.com/flairNLP/flair
-7) spaCy [[GitHub](https://github.com/explosion/spaCy)] [[Tutorial](https://bagas.me/spacy-bahasa-indonesia.html)]
-8) https://github.com/yohanesgultom/nlp-experiments
-9) https://github.com/yasirutomo/python-sentianalysis-id
-10) https://github.com/riochr17/Analisis-Sentimen-ID
-11) https://github.com/yusufsyaifudin/indonesia-ner
+3) NLP-ID. https://github.com/kumparan/nlp-id
+4) MorphInd: Indonesian Morphological Analyzer. http://septinalarasati.com/morphind/
+5) INDRA: Indonesian Resource Grammar. https://github.com/davidmoeljadi/INDRA
+6) Typo Checker. https://github.com/mamat-rahmat/checker_id
+7) Multilingual NLP Package. https://github.com/flairNLP/flair
+9) spaCy [[GitHub](https://github.com/explosion/spaCy)] [[Tutorial](https://bagas.me/spacy-bahasa-indonesia.html)]
+9) https://github.com/yohanesgultom/nlp-experiments
+10) https://github.com/yasirutomo/python-sentianalysis-id
+11) https://github.com/riochr17/Analisis-Sentimen-ID
+12) https://github.com/yusufsyaifudin/indonesia-ner
 
 ## Topic Analysis
 1) (Introduction to LSA & LDA). https://monkeylearn.com/blog/introduction-to-topic-modeling/
