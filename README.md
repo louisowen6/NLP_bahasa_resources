@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 22 July 2020*
+*Last Update: 28 July 2020*
 
 ## Dictionary
 
@@ -116,6 +116,12 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 11) https://github.com/riochr17/Analisis-Sentimen-ID
 12) https://github.com/yusufsyaifudin/indonesia-ner
 
+## Translation
+Sometimes there is an english word within our text and we have to translate it. We can exploit the english word dictionary provided [here](https://github.com/dwyl/english-words) and we can use the [Google Translate API for Python](https://github.com/agusmakmun/Python-Google-Translate)
+
+## Spelling Correction
+You can adjust [this code](https://norvig.com/spell-correct.html?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity50031) with Bahasa corpus to do the spelling correction
+
 ## Topic Analysis
 1) (Introduction to LSA & LDA). https://monkeylearn.com/blog/introduction-to-topic-modeling/
 2) (Introduction to LDA w/ Code & Tips). https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
@@ -131,11 +137,17 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 12) (TOT Library). https://github.com/ahmaurya/topics_over_time  
 13) (Example of LDA in Bahasa Project Code). https://github.com/kirralabs/text-clustering
 
-## Translation
-Sometimes there is an english word within our text and we have to translate it. We can exploit the english word dictionary provided [here](https://github.com/dwyl/english-words) and we can use the [Google Translate API for Python](https://github.com/agusmakmun/Python-Google-Translate)
+## Text Classification
+### Zero-shot Learning
+1) (Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach) https://arxiv.org/pdf/1909.00161.pdf | https://github.com/yinwenpeng/BenchmarkingZeroShot
+2) (Integrating Semantic Knowledge to Tackle Zero-shot Text Classification) https://arxiv.org/abs/1903.12626 | https://github.com/JingqingZ/KG4ZeroShotText
+3) (Train Once, Test Anywhere: Zero-Shot Learning for Text Classification) https://arxiv.org/abs/1712.05972 | https://amitness.com/2020/05/zero-shot-text-classification/
+4) (Zero-shot Text Classification With Generative Language Models) https://arxiv.org/abs/1912.10165 | https://amitness.com/2020/06/zero-shot-classification-via-generation/
 
-## Spelling Correction
-You can adjust [this code](https://norvig.com/spell-correct.html?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity50031) with Bahasa corpus to do the spelling correction
+### Few-shot Learning
+1) (Few-shot Text Classification with Distributional Signatures) https://arxiv.org/pdf/1908.06039.pdf | https://openreview.net/pdf?id=H1emfT4twB
+2) (Few Shot Text Classification with a Human in the Loop) https://katbailey.github.io/talks/Few-shot%20text%20classification.pdf | https://github.com/katbailey/few-shot-text-classification
+3) (Induction Networks for Few-Shot Text Classification) https://arxiv.org/pdf/1902.10482v2.pdf | https://paperswithcode.com/paper/few-shot-text-classification-with-induction
 
 ## Twitter Scraping:
 1) GetOldTweets3. https://github.com/Mottl/GetOldTweets3
