@@ -148,7 +148,7 @@ You can adjust [this code](https://norvig.com/spell-correct.html?utm_medium=soci
 ### Few-shot Learning
 1) (Few-shot Text Classification with Distributional Signatures) https://arxiv.org/pdf/1908.06039.pdf | https://github.com/YujiaBao/Distributional-Signatures
 2) (Few Shot Text Classification with a Human in the Loop) https://katbailey.github.io/talks/Few-shot%20text%20classification.pdf | https://github.com/katbailey/few-shot-text-classification
-3) (Induction Networks for Few-Shot Text Classification) https://arxiv.org/pdf/1902.10482v2.pdf | https://paperswithcode.com/paper/few-shot-text-classification-with-induction
+3) (Induction Networks for Few-Shot Text Classification) https://arxiv.org/pdf/1902.10482v2.pdf | https://github.com/zhongyuchen/few-shot-learning
 
 ## Twitter Scraping:
 1) GetOldTweets3. https://github.com/Mottl/GetOldTweets3
