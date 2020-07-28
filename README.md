@@ -143,6 +143,7 @@ You can adjust [this code](https://norvig.com/spell-correct.html?utm_medium=soci
 2) (Integrating Semantic Knowledge to Tackle Zero-shot Text Classification) https://arxiv.org/abs/1903.12626 | https://github.com/JingqingZ/KG4ZeroShotText
 3) (Train Once, Test Anywhere: Zero-Shot Learning for Text Classification) https://arxiv.org/abs/1712.05972 | https://amitness.com/2020/05/zero-shot-text-classification/
 4) (Zero-shot Text Classification With Generative Language Models) https://arxiv.org/abs/1912.10165 | https://amitness.com/2020/06/zero-shot-classification-via-generation/
+5) (Zero-shot User Intent Detection via Capsule Neural Networks) https://arxiv.org/abs/1809.00385 | https://github.com/congyingxia/ZeroShotCapsule
 
 ### Few-shot Learning
 1) (Few-shot Text Classification with Distributional Signatures) https://arxiv.org/pdf/1908.06039.pdf | https://openreview.net/pdf?id=H1emfT4twB
