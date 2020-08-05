@@ -83,11 +83,11 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Organization Words
 1) https://github.com/panggi/pujangga/blob/master/resource/reference/opre.txt
 
-### Named Entity Recognition
-1) Product NER. https://github.com/dziem/proner-labeled-text
-
 ### Number Words
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/morphologicalfeature/number.txt
+
+### Named Entity Recognition Dataset
+1) Product NER. https://github.com/dziem/proner-labeled-text
 
 ### Hate-speech Dataset
 1) https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection
