@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 28 July 2020*
+*Last Update: 5 Aug 2020*
 
 ## Dictionary
 
@@ -85,6 +85,9 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ### Number Words
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/morphologicalfeature/number.txt
+
+### Hate-speech Dataset
+1) https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection
 
 ## POS-Tagging
 1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
