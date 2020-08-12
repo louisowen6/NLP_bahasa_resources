@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 5 Aug 2020*
+*Last Update: 12 Aug 2020*
 
 ## Dictionary
 
@@ -189,3 +189,4 @@ Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/201
 
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
+2) https://github.com/kirralabs/indonesian-NLP-resources
