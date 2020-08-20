@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 12 Aug 2020*
+*Last Update: 20 Aug 2020*
 
 ## Dictionary
 
