@@ -89,11 +89,18 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Named Entity Recognition Dataset
 1) Product NER. https://github.com/dziem/proner-labeled-text
 
+### POS-Tagging Dataset
+1) https://github.com/famrashel/idn-tagged-corpus
+2) https://github.com/kmkurn/id-pos-tagging/blob/master/data/dataset.tar.gz
+
 ### Hate-speech Dataset
 1) https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection
 
 ### Text Summarization Dataset
 1) https://github.com/kata-ai/indosum
+
+### Analogy Word Dataset
+1) https://github.com/kata-ai/kawat
 
 ## POS-Tagging
 1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
