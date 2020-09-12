@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 3 Sep 2020*
+*Last Update: 13 Sep 2020*
 
 ## Dictionary
 
@@ -88,10 +88,14 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ### Named Entity Recognition Dataset
 1) Product NER. https://github.com/dziem/proner-labeled-text
+2) NER-grit. https://github.com/grit-id/nergrit-corpus
 
 ### POS-Tagging Dataset
 1) https://github.com/famrashel/idn-tagged-corpus
 2) https://github.com/kmkurn/id-pos-tagging/blob/master/data/dataset.tar.gz
+
+### Question and Answering Dataset
+1) https://github.com/google-research-datasets/tydiqa
 
 ### Hate-speech Dataset
 1) https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection
@@ -101,6 +105,9 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ### Analogy Word Dataset
 1) https://github.com/kata-ai/kawat
+
+## Unsupervised Corpus
+1) OSCAR. https://oscar-corpus.com/
 
 ## POS-Tagging
 1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
