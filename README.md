@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 13 Sep 2020*
+*Last Update: 21 Sep 2020*
 
 ## Dictionary
 
@@ -85,6 +85,11 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ### Number Words
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/morphologicalfeature/number.txt
+
+### Calendar Words
+1) https://github.com/onlyphantom/elang/blob/master/build/lib/elang/word2vec/utils/negative/calendar-words.txt
+
+### 
 
 ### Named Entity Recognition Dataset
 1) Product NER. https://github.com/dziem/proner-labeled-text
