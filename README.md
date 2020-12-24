@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 21 Sep 2020*
+*Last Update: 24 Des 2020*
 
 ## Dictionary
 
@@ -113,12 +113,14 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ## Unsupervised Corpus
 1) OSCAR. https://oscar-corpus.com/
+2) Online Newspaper. https://github.com/feryandi/Dataset-Artikel
 
 ## POS-Tagging
 1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
 2) Manually Tagged Indonesian Corpus [[Paper](http://bahasa.cs.ui.ac.id/postag/downloads/Designing%20an%20Indonesian%20Part%20of%20speech%20Tagset.pdf)] [[GitHub](https://github.com/famrashel/idn-tagged-corpus)]
 
-## Pre-trained word embedding
+## Pre-trained NLU Model
+1) Indo-BERT. https://github.com/indobenchmark/indonlu & https://huggingface.co/indobenchmark/indobert-base-p1
 1) Transformer-based Pre-trained Model in Bahasa. https://github.com/cahya-wirawan/indonesian-language-models/tree/master/Transformers
 1) Generate Word-Embedding / Sentence-Embedding using pre-Trained Multilingual Bert model. (https://colab.research.google.com/drive/1yFphU6PW9Uo6lmDly_ud9a6c4RCYlwdX#scrollTo=Zn0n2S-FWZih). P.S: Just change the model using 'bert-base-multilingual-uncased'
 2) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
@@ -208,7 +210,6 @@ Sign in to Twitter Developer. https://developer.twitter.com/en
 Full List of Tweets Object. https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object
 
 Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/2015/01/how-to-use-twitters-search-rest-api-most-effectively./
-
 
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
