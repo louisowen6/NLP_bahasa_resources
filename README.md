@@ -114,6 +114,9 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ## Unsupervised Corpus
 1) OSCAR. https://oscar-corpus.com/
 
+## Puisi & Pantun dataset
+1) https://github.com/ilhamfp/puisi-pantun-generator
+
 ## POS-Tagging
 1) https://medium.com/@puspitakaban/pos-tagging-bahasa-indonesia-dengan-flair-nlp-c12e45542860
 2) Manually Tagged Indonesian Corpus [[Paper](http://bahasa.cs.ui.ac.id/postag/downloads/Designing%20an%20Indonesian%20Part%20of%20speech%20Tagset.pdf)] [[GitHub](https://github.com/famrashel/idn-tagged-corpus)]
