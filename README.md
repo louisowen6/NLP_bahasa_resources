@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 24 Des 2020*
+*Last Update: 10 Apr 2021*
 
 ## Dictionary
 
@@ -18,6 +18,7 @@ This repository provides link to useful dataset and another resources for NLP in
 9) (Score) https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/sentimentword.txt
 10) (InSet Lexicon) https://github.com/fajri91/InSet [[Paper](https://www.researchgate.net/publication/321757985_InSet_Lexicon_Evaluation_of_a_Word_List_for_Indonesian_Sentiment_Analysis_in_Microblogs)]
 11) (Twitter Labelled Sentiment) https://www.researchgate.net/profile/Ridi_Ferdiana/publication/339936724_Indonesian_Sentiment_Twitter_Dataset/data/5e6d64c6a6fdccf994ca18aa/Indonesian-Sentiment-Twitter-Dataset.zip?origin=publicationDetail_linkedData [[Paper](https://www.researchgate.net/publication/338409000_Dataset_Indonesia_untuk_Analisis_Sentimen)]
+12) https://huggingface.co/datasets/senti_lex
 
 ### Position / Degree Words
 1) https://github.com/panggi/pujangga/blob/master/resource/netagger/contextualfeature/psuf.txt
@@ -111,9 +112,31 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Analogy Word Dataset
 1) https://github.com/kata-ai/kawat
 
+### Multilingual Parallel Dataset
+1) https://huggingface.co/datasets/alt
+2) https://opus.nlpl.eu/bible-uedin.php
+3) http://www.statmt.org/cc-aligned/
+4) https://huggingface.co/datasets/id_panl_bppt
+5) https://huggingface.co/datasets/open_subtitles
+6) https://huggingface.co/datasets/opus100
+7) https://huggingface.co/datasets/tapaco
+8) https://huggingface.co/datasets/wiki_lingua
+
+## Summarization Corpus
+1) https://huggingface.co/datasets/id_liputan6
+
 ## Unsupervised Corpus
 1) OSCAR. https://oscar-corpus.com/
 2) Online Newspaper. https://github.com/feryandi/Dataset-Artikel
+3) IndoNLU. https://huggingface.co/datasets/indonlu
+4) http://data.statmt.org/cc-100/
+5) https://huggingface.co/datasets/id_clickbait
+6) https://huggingface.co/datasets/id_newspapers_2018
+7) https://opus.nlpl.eu/QED.php
+
+## Voice-Text Dataset
+1) https://huggingface.co/datasets/common_voice
+2) https://huggingface.co/datasets/covost2
 
 ## Puisi & Pantun dataset
 1) https://github.com/ilhamfp/puisi-pantun-generator
@@ -217,3 +240,4 @@ Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/201
 ## Other Resources:
 1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
 2) https://github.com/kirralabs/indonesian-NLP-resources
+3) https://huggingface.co/datasets?filter=languages%3Aid&p=0
