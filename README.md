@@ -113,6 +113,9 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Analogy Word Dataset
 1) https://github.com/kata-ai/kawat
 
+## Formal-Informal Dataset
+1) https://github.com/haryoa/stif-indonesia
+
 ### Multilingual Parallel Dataset
 1) https://huggingface.co/datasets/alt
 2) https://opus.nlpl.eu/bible-uedin.php
