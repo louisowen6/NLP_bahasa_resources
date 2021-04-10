@@ -108,6 +108,7 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ### Text Summarization Dataset
 1) https://github.com/kata-ai/indosum
+2) https://huggingface.co/datasets/id_liputan6
 
 ### Analogy Word Dataset
 1) https://github.com/kata-ai/kawat
@@ -121,9 +122,6 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 6) https://huggingface.co/datasets/opus100
 7) https://huggingface.co/datasets/tapaco
 8) https://huggingface.co/datasets/wiki_lingua
-
-## Summarization Corpus
-1) https://huggingface.co/datasets/id_liputan6
 
 ## Unsupervised Corpus
 1) OSCAR. https://oscar-corpus.com/
