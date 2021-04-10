@@ -108,6 +108,9 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 1) https://github.com/kata-ai/indosum
 2) https://huggingface.co/datasets/id_liputan6
 
+### Paraphrase Dataset
+1) https://github.com/Wikidepia/indonesian_datasets/tree/master/paraphrase/paws
+
 ### Analogy Word Dataset
 1) https://github.com/kata-ai/kawat
 
