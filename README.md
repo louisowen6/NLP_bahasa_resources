@@ -90,8 +90,6 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Calendar Words
 1) https://github.com/onlyphantom/elang/blob/master/build/lib/elang/word2vec/utils/negative/calendar-words.txt
 
-### 
-
 ### Named Entity Recognition Dataset
 1) Product NER. https://github.com/dziem/proner-labeled-text
 2) NER-grit. https://github.com/grit-id/nergrit-corpus
@@ -113,7 +111,7 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 ### Analogy Word Dataset
 1) https://github.com/kata-ai/kawat
 
-## Formal-Informal Dataset
+### Formal-Informal Dataset
 1) https://github.com/haryoa/stif-indonesia
 
 ### Multilingual Parallel Dataset
@@ -126,7 +124,7 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 7) https://huggingface.co/datasets/tapaco
 8) https://huggingface.co/datasets/wiki_lingua
 
-## Unsupervised Corpus
+### Unsupervised Corpus
 1) OSCAR. https://oscar-corpus.com/
 2) Online Newspaper. https://github.com/feryandi/Dataset-Artikel
 3) IndoNLU. https://huggingface.co/datasets/indonlu
@@ -135,11 +133,11 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 6) https://huggingface.co/datasets/id_newspapers_2018
 7) https://opus.nlpl.eu/QED.php
 
-## Voice-Text Dataset
+### Voice-Text Dataset
 1) https://huggingface.co/datasets/common_voice
 2) https://huggingface.co/datasets/covost2
 
-## Puisi & Pantun dataset
+### Puisi & Pantun dataset
 1) https://github.com/ilhamfp/puisi-pantun-generator
 
 ## POS-Tagging
