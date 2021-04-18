@@ -2,9 +2,12 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 10 Apr 2021*
+*Last Update: 18 Apr 2021*
 
 ## Dictionary
+
+### Synonym
+1) https://github.com/victoriasovereigne/tesaurus
 
 ### Sentiment Words
 1) (Negative) https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/negatif_ta2.txt
