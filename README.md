@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 18 Apr 2021*
+*Last Update: 23 Aug 2021*
 
 ## Table of contents
   * [Corpus](#corpus)
@@ -78,6 +78,7 @@ This repository provides link to useful dataset and another resources for NLP in
 
 ### [Formal-Informal](corpus/formal-informal)
 1) STIF-Indonesia. https://github.com/haryoa/stif-indonesia
+2) IndoCollex. https://github.com/haryoa/indo-collex
 
 ### [Multilingual Parallel](corpus/multilingual-parallel)
 1) https://huggingface.co/datasets/alt
