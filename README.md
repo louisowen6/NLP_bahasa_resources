@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 23 Aug 2021*
+*Last Update: 10 Nov 2021*
 
 ## Table of contents
   * [Corpus](#corpus)
@@ -94,10 +94,12 @@ This repository provides link to useful dataset and another resources for NLP in
 1) OSCAR. https://oscar-corpus.com/
 2) Online Newspaper. https://github.com/feryandi/Dataset-Artikel
 3) IndoNLU. https://huggingface.co/datasets/indonlu
-4) http://data.statmt.org/cc-100/
-5) https://huggingface.co/datasets/id_clickbait
-6) https://huggingface.co/datasets/id_newspapers_2018
-7) https://opus.nlpl.eu/QED.php
+4) IndoNLG. https://github.com/indobenchmark/indonlg
+5) IndoNLI. https://github.com/ir-nlp-csui/indonli
+6) http://data.statmt.org/cc-100/
+7) https://huggingface.co/datasets/id_clickbait
+8) https://huggingface.co/datasets/id_newspapers_2018
+9) https://opus.nlpl.eu/QED.php
 
 ### [Voice-Text](corpus/voice-text)
 1) https://huggingface.co/datasets/common_voice
