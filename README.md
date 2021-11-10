@@ -96,10 +96,11 @@ This repository provides link to useful dataset and another resources for NLP in
 3) IndoNLU. https://huggingface.co/datasets/indonlu
 4) IndoNLG. https://github.com/indobenchmark/indonlg
 5) IndoNLI. https://github.com/ir-nlp-csui/indonli
-6) http://data.statmt.org/cc-100/
-7) https://huggingface.co/datasets/id_clickbait
-8) https://huggingface.co/datasets/id_newspapers_2018
-9) https://opus.nlpl.eu/QED.php
+6) IndoBERTweet. https://github.com/indolem/IndoBERTweet
+7) http://data.statmt.org/cc-100/
+8) https://huggingface.co/datasets/id_clickbait
+9) https://huggingface.co/datasets/id_newspapers_2018
+10) https://opus.nlpl.eu/QED.php
 
 ### [Voice-Text](corpus/voice-text)
 1) https://huggingface.co/datasets/common_voice
@@ -238,13 +239,14 @@ I have made the [combined stop words list](https://github.com/louisowen6/NLP_bah
 
 ## [Pre-trained Models](pre-trained-models)
 1) Indo-BERT. https://github.com/indobenchmark/indonlu & https://huggingface.co/indobenchmark/indobert-base-p1
-1) Transformer-based Pre-trained Model in Bahasa. https://github.com/cahya-wirawan/indonesian-language-models/tree/master/Transformers
-1) Generate Word-Embedding / Sentence-Embedding using pre-Trained Multilingual Bert model. (https://colab.research.google.com/drive/1yFphU6PW9Uo6lmDly_ud9a6c4RCYlwdX#scrollTo=Zn0n2S-FWZih). P.S: Just change the model using 'bert-base-multilingual-uncased'
-2) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
-3) https://github.com/Kyubyong/wordvectors
-4) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
-5) https://github.com/deryrahman/word2vec-bahasa-indonesia
-6) https://sites.google.com/site/rmyeid/projects/polyglot
+2) Indo-BERTweet. https://github.com/indolem/IndoBERTweet & https://huggingface.co/indolem/indobertweet-base-uncased
+3) Transformer-based Pre-trained Model in Bahasa. https://github.com/cahya-wirawan/indonesian-language-models/tree/master/Transformers
+4) Generate Word-Embedding / Sentence-Embedding using pre-Trained Multilingual Bert model. (https://colab.research.google.com/drive/1yFphU6PW9Uo6lmDly_ud9a6c4RCYlwdX#scrollTo=Zn0n2S-FWZih). P.S: Just change the model using 'bert-base-multilingual-uncased'
+5) https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset. [[Paper](https://www.researchgate.net/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/link/5c4ea13a458515a4c745850d/download)]
+6) https://github.com/Kyubyong/wordvectors
+7) https://drive.google.com/uc?id=0B5YTktu2dOKKNUY1OWJORlZTcUU&export=download
+8) https://github.com/deryrahman/word2vec-bahasa-indonesia
+9) https://sites.google.com/site/rmyeid/projects/polyglot
 
 ## [Usable Library](usable-library)
 1) Pujangga: Indonesian Natural Language Processing REST API. https://github.com/panggi/pujangga 
