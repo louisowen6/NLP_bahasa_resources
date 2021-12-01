@@ -2,7 +2,7 @@
 
 This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia. 
 
-*Last Update: 10 Nov 2021*
+*Last Update: 01 Dec 2021*
 
 ## Table of contents
   * [Corpus](#corpus)
@@ -296,6 +296,7 @@ Full List of Tweets Object. https://developer.twitter.com/en/docs/tweets/data-di
 Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/2015/01/how-to-use-twitters-search-rest-api-most-effectively./
 
 ## [Other Resources](other-resourceS)
-1) https://github.com/irfnrdh/Awesome-Indonesia-NLP
-2) https://github.com/kirralabs/indonesian-NLP-resources
-3) https://huggingface.co/datasets?filter=languages%3Aid&p=0
+1) https://github.com/indonesian-nlp/nlp-resources
+2) https://github.com/irfnrdh/Awesome-Indonesia-NLP
+3) https://github.com/kirralabs/indonesian-NLP-resources
+4) https://huggingface.co/datasets?filter=languages%3Aid&p=0
